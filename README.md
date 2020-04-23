@@ -1,7 +1,7 @@
 # INFO6350 Final Project
 
 Group member:
-Meinan Wang - NUID
+Meinan Wang - NUID 001386565
 Youting Wang - NUID 001054058
 
 ## Welcome Page
