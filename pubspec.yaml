@@ -1,0 +1,39 @@
+name: exe8
+description: A Garage Sale Flutter project with register, login, post and etc., functions.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.3
+  firebase_auth: ^0.16.0
+  cloud_firestore: ^0.13.5
+  provider: ^4.0.5
+  firebase_database: ^3.1.3
+  image_picker: ^0.6.5
+  multi_image_picker: ^4.6.6+rc.1
+  firebase_storage: ^3.1.5
+  camera:
+  path_provider:
+  path:
+  cached_network_image: ^2.1.0+1
+  flutter_spinkit: ^4.1.2
+  google_fonts: ^0.6.2
+  location: ^3.0.2
+  geocoder: ^0.2.1
+  google_maps_flutter: ^0.5.26+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/GarageSale.png
