@@ -1,5 +1,9 @@
 # INFO6350 Final Project
 
+[Video demo](https://drive.google.com/file/d/1uK8wcHFzOF0RVeMho3ahx1UBErE2OShA/view?usp=sharing)
+
+[Project document](https://github.com/YoutingWang/INFO6350_FinalProject/blob/master/INFO%206350%20Final%20Project.pdf)
+
 Group member:
 
 Meinan Wang - NUID 001386565
